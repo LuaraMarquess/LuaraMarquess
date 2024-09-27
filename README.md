@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8900F7&width=435&lines=Hello+World!+I'm+Luara+Marques;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=71F713&width=435&lines=Hello+World!+I'm+Luara+Marques;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 <img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="200">
 
@@ -20,7 +20,7 @@
 
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/LuaraMarquess">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=LuararaMarquess&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=LuaraMarquess&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuaraMarquess&layout=compact&langs_count=7&theme=one_dark_pro"/>
   </a>
 </div>
