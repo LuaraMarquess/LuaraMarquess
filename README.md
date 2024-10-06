@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=71F713&width=435&lines=Hello+World!+I'm+Luara+Marques;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 
-![snake gif](https://github.com/LuaraMarquess/LuaraMarquess/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuaraMarquess/LuaraMarquess/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ### Technologies and tools:
